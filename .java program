@@ -1,0 +1,7 @@
+public class main{
+public static void main(String[]args){
+char ch="A";
+int i=char;
+System.out.println(ch);
+}
+}
